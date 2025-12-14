@@ -1,0 +1,1 @@
+import{_ as t,c as n,a as o,o as a}from"./BCPzPveH.js";const r={};function s(c,e){return a(),n("div",null,[...e[0]||(e[0]=[o("h1",null,"Addition material",-1)])])}const i=t(r,[["render",s]]);export{i as default};
