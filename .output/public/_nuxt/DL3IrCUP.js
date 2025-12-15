@@ -1,0 +1,1 @@
+import{_ as n}from"./B-JS2Oq8.js";import{_ as a,c as r,a as t,b as c,o as s}from"./Baz-8Db8.js";import"./Cz4OiRGk.js";const i={};function l(_,o){const e=n;return s(),r("div",null,[o[0]||(o[0]=t("h1",null,"Home",-1)),c(e,{label:"Sinov uchun",color:"info",variant:"solid"})])}const p=a(i,[["render",l]]);export{p as default};

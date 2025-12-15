@@ -1,0 +1,1 @@
+import{_ as o,c as r,a as n,o as t}from"./Baz-8Db8.js";const s={};function a(c,e){return t(),r("div",null,[...e[0]||(e[0]=[n("h1",null,"Profile",-1)])])}const f=o(s,[["render",a]]);export{f as default};
